@@ -7,11 +7,9 @@
     <list default="true" id="35e6040c-6d98-4814-b56e-f9b8c2aa7631" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/hellocucumber/StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/StepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/hellocucumber/example.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/hellocucumber/example.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/hellocucumber/is_it_friday_yet.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/hellocucumber/is_it_friday_yet.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-hellocucumber.RunCucumberTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/hellocucumber.RunCucumberTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/hellocucumber.RunCucumberTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/hellocucumber/example.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/hellocucumber/example.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/crumrinecoder/Desktop/Web Development Projects/CucumberProjects/hellocucumber"
   }
